@@ -1,16 +1,31 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Fabián Badini
 
-<!--
-**fbadini2/fbadini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Soy desarrollador Full Stack de **Pilar, Argentina**, apasionado por construir soluciones tecnológicas completas, desde el backend hasta el frontend.
 
-Here are some ideas to get you started:
+🛠️ Actualmente estoy trabajando en una aplicación full-stack utilizando:
+- **Python** + **Flask** para el backend
+- **JavaScript** + **React** para el frontend
+- **MySQL** como base de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 También tengo experiencia en:
+- **Git** y control de versiones
+- Desarrollo web moderno y buenas prácticas de programación
+
+📚 Siempre estoy en búsqueda de seguir aprendiendo y enfrentando nuevos desafíos en el mundo del desarrollo de software.
+
+---
+
+📈 **Estadísticas de GitHub**
+
+![fbadini2's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbadini2&show_icons=true&theme=default)
+
+---
+
+📫 **Contacto**
+
+- 📧 Email: [fbadini@gmail.com](mailto:fbadini@gmail.com)  
+- 💼 LinkedIn: [fabian-badini](https://www.linkedin.com/in/fabian-badini)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
