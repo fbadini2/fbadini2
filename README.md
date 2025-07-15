@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy Fabián Badini
 
-🎯 Soy desarrollador Full Stack de **Pilar, Argentina**, apasionado por construir soluciones tecnológicas completas, desde el backend hasta el frontend.
+🎯 Soy desarrollador Full Stack apasionado por construir soluciones tecnológicas completas.
 
 🛠️ Actualmente estoy trabajando en una aplicación full-stack utilizando:
 - **Python** + **Flask** para el backend
@@ -12,14 +12,6 @@
 - Desarrollo web moderno y buenas prácticas de programación
 
 📚 Siempre estoy en búsqueda de seguir aprendiendo y enfrentando nuevos desafíos en el mundo del desarrollo de software.
-
----
-
-📈 **Estadísticas de GitHub**
-
-![fbadini2's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbadini2&show_icons=true&theme=default)
-
----
 
 📫 **Contacto**
 
